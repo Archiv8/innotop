@@ -1,7 +1,7 @@
 pkgbase = innotop
 	pkgdesc = A powerful 'top' clone for MySQL (MariaDB)
 	pkgver = 1.13.0
-	pkgrel = 1
+	pkgrel = 5
 	url = https://github.com/innotop/innotop
 	arch = any
 	license = GPL2

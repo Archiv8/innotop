@@ -16,7 +16,7 @@
 
 pkgname=innotop
 pkgver=1.13.0
-pkgrel=1
+pkgrel=5
 pkgdesc="A powerful 'top' clone for MySQL (MariaDB)"
 arch=(
   "any"
